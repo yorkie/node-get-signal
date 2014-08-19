@@ -1,0 +1,22 @@
+{
+  "name": "get-signal",
+  "version": "1.0.0",
+  "description": "get signal by name/number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/node-get-signal.git"
+  },
+  "keywords": [
+    "signal"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-get-signal/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-get-signal"
+}
